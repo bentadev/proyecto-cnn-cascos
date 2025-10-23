@@ -1,0 +1,7 @@
+# Estas son las librerías principales:
+tensorflow
+matplotlib
+numpy
+scikit-learn
+kaggle
+Pillow
